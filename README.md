@@ -8,11 +8,7 @@ Before you begin, ensure you have met the following requirements:
 
 * Python 3.x installed
 * PostgreSQL installed and running
-* Required Python libraries installed. You can install them using pip:
-
-```bash
-pip install -r requirements.txt
-```
+* Required Python
 
 ## Getting Started
 
