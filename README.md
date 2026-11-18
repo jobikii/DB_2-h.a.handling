@@ -8,7 +8,7 @@ Before you begin, ensure you have met the following requirements:
 
 * Python 3.x installed
 * PostgreSQL installed and running
-* Required Python
+* psycopg and python-dotenv
 
 ## Getting Started
 
